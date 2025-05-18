@@ -1,1 +1,1 @@
-# -MLOps-Zoomcamp
+# -Machine Learning Operations -Zoomcamp
